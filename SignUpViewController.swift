@@ -20,7 +20,7 @@ class SignUpViewController: UIViewController, UITextFieldDelegate
     }
 
 
-    @IBAction func signUpAction(_ sender: UIButton) {
+    @IBAction func signUpAction(_ sender: Any) {
     
         
         if password.text !=

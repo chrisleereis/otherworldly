@@ -10,6 +10,7 @@ import UIKit
 import Firebase
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
+    // fix the SIGABRT signal, causes crash upon logging in and segue to home
     
     var window: UIWindow?
     

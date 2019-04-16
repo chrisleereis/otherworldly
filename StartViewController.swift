@@ -15,9 +15,9 @@ class StartViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
-    @IBAction func LoginButton(_ sender: UIButton) {
+    @IBAction func loginButton(_ sender: UIButton) {
     }
-    @IBAction func SignUpButton(_ sender: UIButton) {
+    @IBAction func signUpButton(_ sender: UIButton) {
     }
     
 }
